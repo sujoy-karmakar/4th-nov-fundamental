@@ -1,0 +1,7 @@
+ Question 4: What is the purpose of declaring variables in JavaScript, and how do you declare them using the
+ 'let' keyword?
+-> We use variables to store the data and manage the data. 
+let name = sujoy 
+name = Rohit
+console.log(name) // Rohit
+ using let we reassign the value in variables. Let has personal block scope so it exicute inside let block scope

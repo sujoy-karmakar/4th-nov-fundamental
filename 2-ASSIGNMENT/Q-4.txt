@@ -1,0 +1,10 @@
+Q4. Discuss the precedence and associativity of operators in JavaScript. Why is understanding these concepts
+important?
+
+Precedence:- Precedence determines the priority of operators, meaning higher priority operators are executed before lower priority ones, following a sequence from high to low priority.
+ex- let x = 5+2*5 //15 because this ex higher priority * then + 
+
+Associativity:- Associativity defines the order of operations. If no specific order is set, operations are executed in a left-to-right sequence.
+ex- let y = 10+5+3 //18 because this ex no specific order is set so it will exicute left to right.
+
+That's the reason it is very important if we don't follow this, then our operation don't work properly.

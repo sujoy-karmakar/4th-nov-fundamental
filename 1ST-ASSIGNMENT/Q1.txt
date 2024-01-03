@@ -1,0 +1,6 @@
+Explain what is JavaScript and it's role in web development.
+ans:-
+  JavaScript is a Popular programming language that widly use in web development to make webside interactive and dynamic. It is a clint side
+  that means it run on a browser or rather than on a server. It's allowing developer to manipulate and modify webpage content in real time.
+  JavaScript is crucial for creating features like form validation, interactive maps, image sliders and more. JavaScript complements html and 
+  css. This 3 technologie combination are building mordern, responsive, and engaging web aplications.

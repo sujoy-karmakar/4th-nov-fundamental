@@ -1,0 +1,11 @@
+Question 3: List and describe the five primitive data types in JavaScript.
+
+ (1) String :- String represents a combination of characters and is enclosed single ('') or double ("") quotes.
+
+ (2) Number :- Number represents numeric data, including Integers and Floating-point Numbers.
+       
+ (3)  Boolean :- Boolean represents logical valu, either true or false, often used for decision-making.
+
+ (4) Null :- Null represents nothing or empty valu. It is often used to indicated that variables and object has no value.
+
+ (5) undefined :- undefined represents a variable that has been declired but not assigned a value.

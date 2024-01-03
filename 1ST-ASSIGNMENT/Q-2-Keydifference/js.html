@@ -1,0 +1,30 @@
+<!-- Question 2: Explain the key differences between JavaScript and HTML. Provide examples of situations where
+ you would use each. -->
+
+<!-- 
+JavaScript :
+ Nature : JavaScript is a scripting language.
+
+ Purpose : JavaScript is used for making our webpage interactive and dynamic. It allows us to creating dynamic content, handling events. It runs in the brower and can manipulate the HTMl and CSS of a webpage.
+ 
+Eample of Use Case : Use JavaScript for tasks like form validation, creating interactive elements, handling events and updating content dynamically.
+ -->
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Interactive Webpage</title>
+    <script>
+        function greetUser() {
+            let name = prompt("Enter your name:");
+            alert("Hello, " + name + "!");
+        }
+    </script>
+</head>
+
+<body>
+    <h1>Welcome to the Interactive Webpage</h1>
+    <button onclick="greetUser()">Click me</button>
+</body>
+
+</html>
