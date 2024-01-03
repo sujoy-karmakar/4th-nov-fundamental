@@ -14,7 +14,7 @@ multi-line comments.
 console.log("hello world");   //This is a single line comment
 
 
-// ---------------------------------------------------------Multi line comment
+// -------------------------------------------------------Multi line comment
 
 /*
 In JavaScript multi line comments are start with /* and end with */
