@@ -1,0 +1,71 @@
+Q2. Describe the categorization of operators in JavaScript based on their functionality. Provide examples for
+each category.
+
+1 Aritthmetic Operators:
+Use for mathematical calculation
+let a=5;
+let b= 10;
+console.log (a+b);
+console.log (a-b);
+console.log (a/b);
+console.log (a*b);
+console.log (a%b);
+
+2 Assignment Operators:
+Use for Assign values to variables
+simple operators  
+let x = 10; // = is a simple operation
+let x  += 10 // here we use combination of arrithmetic and assignment operator
+
+3 Comparison Operators:
+It compare a value and give true and false value
+let a = 10
+let b = 5
+console.log (a==b) //equal to : false
+console.log (a!=b) //not equal : true
+console.log (a>b)// Greater than:true
+console.log(a< b) // less than : false
+console.log (a>=b)  //Greater than or equal to: true
+console.log (a<= b) // Less than or equal to: false
+
+4 Logical Operators :
+Logical Operators perform logical operations and return a boolean value.
+either true or false.
+let a = true;
+let b = false;
+//And 
+console.log(a && b); //false
+//Or
+console.log(a || b);//true
+//Not
+console.log(!b);//true
+
+5 Unary Operators:
+
+Unary Operators work of single operands
+let num = 5
+unary +
+console.log(+num);
+unary minus
+console.log(-num);
+Increment
+console.log(num++);
+Decrement
+console.log(num--);
+6 Conditional (Ternary) Operator:
+This operator is short hand of if else.
+
+let age = 20;
+let status = (age >= 18) ? 'Adult' : 'Minor';
+console.log(status);  // 'Adult'
+
+
+
+
+
+
+
+ 
+
+
+
